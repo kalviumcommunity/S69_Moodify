@@ -35,4 +35,4 @@ Moodify is a web application that recommends songs tailored to the user’s curr
 1. **User Login:** Users log in to the application.
 2. **Mood Selection:** Users select their current mood from the predefined list.
 3. **Playlist Display:** Based on the selected mood, the application generates and displays a playlist of recommended songs.
-4. **Enjoy Music:** Users can listen to the recommended songs directly within the application.
+4. **Enjoy Music:** Users can listen to the recommended songs directly within the application
