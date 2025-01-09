@@ -1,5 +1,3 @@
-hello
-
 # Moodify – Music Recommendation Based on Mood
 
 ## Project Overview
