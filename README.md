@@ -1,12 +1,10 @@
-hello
-
 # Moodify – Music Recommendation Based on Mood
 
 ## Project Overview
 
-Moodify is a web application that recommends songs tailored to the user’s current mood. By selecting their mood from a predefined list, such as Happy, Sad, Energetic, and Relaxed, users receive personalized playlists that enhance their emotional experience. The goal of the project is to merge basic user interaction with enjoyable music recommendations, making it both a creative and engaging platform.
+Moodify is web application that recommends songs tailored to the user’s current mood. By selecting their mood from a predefined list, such as Happy, Sad, Energetic, and Relaxed, users receive personalized playlists that enhance their emotional experience. The goal of the project is to merge basic user interaction with enjoyable music recommendations, making it both a creative and engaging platform.
 
-## Key Features
+## Key Features :
 
 ### Mood-Based Music Recommendations
 
