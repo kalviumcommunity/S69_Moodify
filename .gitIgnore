@@ -1,1 +1,5 @@
+<<<<<<< HEAD:.gitIgnore
 /node_modules
+=======
+/node_modules
+>>>>>>> 9f99f17be46e3e687bf61ef1615dc6ece2fbeee8:Backend/.gitIgnore
